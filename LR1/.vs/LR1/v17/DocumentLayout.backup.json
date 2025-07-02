@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\Practice\\LR1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24E593CB-E17D-465E-822A-93C6A91CC661}|LR1\\LR1.vcxproj|C:\\Users\\Lenovo\\Desktop\\Practice\\LR1\\LR1\\LR1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{24E593CB-E17D-465E-822A-93C6A91CC661}|LR1\\LR1.vcxproj|solutionrelative:LR1\\LR1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LR1.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Practice\\LR1\\LR1\\LR1.cpp",
+              "RelativeDocumentMoniker": "LR1\\LR1.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Practice\\LR1\\LR1\\LR1.cpp",
+              "RelativeToolTip": "LR1\\LR1.cpp",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAAJgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-22T15:17:32.093Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
